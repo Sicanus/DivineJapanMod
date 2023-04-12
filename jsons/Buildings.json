@@ -1,0 +1,18 @@
+[
+	{
+		"name": "Divine City Center",
+		"replaces": "Monument",
+		"uniqueTo": "Divine Japan", 
+		"production": 100,
+		"science": 20,
+		"culture": 20,
+		"faith": 20,
+		"gold": 20,
+		"happiness": 100,
+		"food": 100,
+		"cityStrength": 100,
+		"cost": 10,
+		"specialistSlots": {"Artist": 5, "Merchant": 5, "Engineer": 5, "Scientist": 5},
+		"uniques": ["Destroyed when the city is captured", "Remove extra unhappiness from annexed cities", "New [Military] units start with [5000] Experience [in this city]"]
+	}
+]

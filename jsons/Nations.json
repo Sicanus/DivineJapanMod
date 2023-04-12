@@ -1,0 +1,36 @@
+[
+	{
+		"name": "Divine Japan",
+		"leaderName": "Amaterasu",
+		"adjective": ["Divine"],
+	"startBias": ["{Coast} {Plains}"],
+		"preferredVictoryType": "Domination",
+		
+		"introduction": "Great Japan is the divine land. The heavenly progenitor founded it, and the sun goddess bequeathed it to her descendants to rule eternally. Only in our country is this true; there are no similar examples in other countries. This is why our country is called the divine land.",
+		
+		"declaringWar": "You will be destroyed by the Divine Power.",
+		"attacked": "Gods are very angry. Results will be very serious."
+		"defeated":  "We believe the imperishableness of the divine land!",
+		"introduction":  "You must feel glorious to see us.",
+		
+		"neutralHello": "Greetings.",
+		"neutralLetsHearIt": ["Let's discuss."],
+		"neutralNo": ["No way.","Never!"],
+		"neutralYes": ["Very good.","Of course, yes.","I accept."],
+		"hateHello": "Go on!",
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["I can't accept!","You need to try harder."],
+		"hateYes": ["Let it be."],
+		
+		"afterPeace": "Be grateful of our Tolerance.",
+		"tradeRequest": "We hope you know our quest and your situation.",
+
+		"outerColor": [	186, 22, 1],
+		"innerColor": [	255, 215, 1],
+		"uniqueName": "Divine Legend",
+		"uniques": ["[100]% Strength <for [Wounded] units>","[+100] Movement <for [non-air] units>", "[+50]% Golden Age length"],
+		"cities": ["Ohoyamato Toyoakidu Sima","Iyo Futanano Sima","Tukusi Sima","Okino Midukono Sima","Ikino Sima","Awazi Sima","Tusima","Kosino Sima","Sadono Sima","Ohosima",
+			"Kibiko Sima","Azukizima","Himezima","Tikano Sima","Futagono Sima","Onogoro Jima","Yamaziro","Sinano","Harima",
+			"Musasino","Sagamu","Kahi","Hai Duong","Thai Binh","Soc Trang","Lao Cai","Sa Dec","Vinh Long"]
+	}
+]

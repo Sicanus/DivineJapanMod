@@ -1,0 +1,16 @@
+[
+
+	{
+		"name": "Ameno Murakumo",
+		"unitType": "Scout",
+		"uniqueTo": "Divine Japan",
+		"replaces": "Scout",
+		"movement": 100,
+		"strength": 5000,
+		"cost": 5,
+		"uniques": ["Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
+	}
+	
+]
