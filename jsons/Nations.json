@@ -28,7 +28,7 @@
 		"outerColor": [	186, 22, 1],
 		"innerColor": [	255, 215, 1],
 		"uniqueName": "Divine Legend",
-		"uniques": ["[100]% Strength <for [Wounded] units>","[+100] Movement <for [non-air] units>", "[+50]% Golden Age length"],
+		"uniques": ["[100]% Strength <for [Wounded] units>","[+100] Movement <for [non-air] units>", "[+1000]% Golden Age length"],
 		"cities": ["Ohoyamato Toyoakidu Sima","Iyo Futanano Sima","Tukusi Sima","Okino Midukono Sima","Ikino Sima","Awazi Sima","Tusima","Kosino Sima","Sadono Sima","Ohosima",
 			"Kibiko Sima","Azukizima","Himezima","Tikano Sima","Futagono Sima","Onogoro Jima","Yamaziro","Sinano","Harima",
 			"Musasino","Sagamu","Kahi","Hai Duong","Thai Binh","Soc Trang","Lao Cai","Sa Dec","Vinh Long"]
