@@ -1,2 +1,2 @@
 # Divine Japan Mod
-A overpowered mod.
+An overpowered mod for UnCiv.
